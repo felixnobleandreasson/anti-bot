@@ -1,0 +1,7 @@
+# Generated config files
+*.ini
+
+
+# OS specific drivers
+drivers/
+geckodriver.log
